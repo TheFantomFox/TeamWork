@@ -1,0 +1,15 @@
+"Rabota from TFF"
+
+
+namespace TextProgram1
+{
+    class Programm
+         {
+         static void Main (string[] args)
+         }
+
+                                                    <---Скобки нет
+           Console,WriteLine("Hello, World!");
+           Console.ReadLine()                       <---Нет точки с запятой
+         }
+}
